@@ -1,0 +1,950 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Hcce4L2_gqqdtY8km39f0K3L_8U",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XhfjYIyI1Hls5oAACo1zAySTUG0",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-09-18T15:21:26Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "Se as raízes da suas plantas estiverem assim vc precisa saber disto!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vcecb5tDjWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vcecb5tDjWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vcecb5tDjWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vcecb5tDjWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vcecb5tDjWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vcecb5tDjWs"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "og-GEktwmjUAoRKAGnC0bixginU",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-07-29T17:58:14Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "Se vir este animal nos vasos das suas plantas vc precisa saber disto!",
+        "description": "Não deixe isto acontecer!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/naNQzcki6_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/naNQzcki6_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/naNQzcki6_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/naNQzcki6_A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/naNQzcki6_A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "naNQzcki6_A"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "estBj8Zp90DPp8uQj6eHpDgrfGU",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:21:43Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "Acabe de uma vez com todas as pragas nas plantas!",
+        "description": "Não queima as folhas das plantas, pode ser usado em qualquer uma e mata tudo: pulgões, cochonilhas, ácaros, mosca branca, fungos, lagartas e muito mais. Abaixo estou deixando outras dicas que com certeza vão te ajudar muito com suas plantas:\n🌱Tem boldo em casa? não deixe de assistir:  https://youtu.be/2i4eONn0eSQ\n😱Efeito detergente nas plantas: https://youtu.be/XvNR5yTzV1c\n📕Guia de cultivo Cantinho de casa: https://youtu.be/mMFENx5mpjI\n🍓Cultivo de morango completo: https://youtu.be/uRbqrYn5jLE\n🥬Alface em garrafa pet completo: https://youtu.be/5RLhDvykp0Y\n🍅Como bombar tomates: https://youtu.be/sT3V9DMbKos\n🥔Adubo antigo vale ouro:https://youtu.be/thh35KtA2F0\n\n#AcabarComPragas #CantinhoDeCasa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_74MTMPlTtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_74MTMPlTtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_74MTMPlTtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_74MTMPlTtk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_74MTMPlTtk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_74MTMPlTtk"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3RlZq5wGQ8d7F5gYge2bBKR2fJM",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:05:17Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "LESMAS E CARACOIS NO JARDIM COMO ELININAR (Dica preciosa)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W0f5pgFnSsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W0f5pgFnSsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W0f5pgFnSsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W0f5pgFnSsU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W0f5pgFnSsU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W0f5pgFnSsU"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UxRaipK56ykQyaFaVsstP_EqE-w",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-01-06T20:01:58Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "Mata Lagarta, Formiga, Pulgão, Cochonilha, Ácaro, Mosca Branca, Larva Minadora | Não Gasta 1 Centavo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nbcIfLhl9n8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nbcIfLhl9n8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nbcIfLhl9n8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nbcIfLhl9n8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nbcIfLhl9n8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nbcIfLhl9n8"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mcbTDhBHpf7_hrbaFSiGCCfYvQs",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-06-09T15:24:50Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "LARVA MINADORA: Como acabar com ela todas as plantas!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zkwnFRgYf9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zkwnFRgYf9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zkwnFRgYf9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zkwnFRgYf9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zkwnFRgYf9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zkwnFRgYf9A"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3sFk_a-3sGYGSCKdKDQRxXHJq_Y",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:25:01Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "MANCHAS BRANCAS NAS PLANTAS(Como resolver com receita caseira)",
+        "description": "Sua planta pode estar sendo atacada por fungos. Neste vídeo estou ensinando a como fazer uma receita caseira que pode resolver este problema de uma vez por todas. Se sua planta está feia, não esta frutificando, vc não tem espaço para plantar, ela sempre esta sofrendo ataque de pragas e vc não sabe a forma correta de podar! conheça o livro do Cantinho de casa: https://www.cantinhodecasa.com pois tem tudo que vc precisa para suas plantas ficarem lindas e super produtivas mesmo em pequenos espaços! Se vc tiver dúvidas a respeito do livro do Cantinho de casa, eu sou muito acessível converse comigo pelo whatsapp clicando aqui: http://bit.ly/2PsxnwP    abraços!!!\n\nOutra receita: https://www.youtube.com/watch?v=KG6IJNJKgOw",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s4mMa3rS6IU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s4mMa3rS6IU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s4mMa3rS6IU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s4mMa3rS6IU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s4mMa3rS6IU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s4mMa3rS6IU"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Al3HxAflEouoF1uFyAQTNHIDmLM",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:21:14Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "COMO ACABAR COM INFESTÃO DE PRAGAS COM BANHO(incentiva a produção de flores e frutos)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hkm3YgDV7fE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hkm3YgDV7fE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hkm3YgDV7fE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hkm3YgDV7fE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hkm3YgDV7fE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hkm3YgDV7fE"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KgIPJXnSR9iKz9fF1B3DugXtBJU",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:01:15Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "COMO FAZER CALDA BORDALESA (mata e previne fungos e outras pragas)",
+        "description": "Passo a passo completo do preparo em pequenas quantidades à aplicação da forma correta!\n1° Vantagens da calda bordalesa para as plantas\n2° Como preparar a calda bordalesa da forma correta\n3° Forma correta de aplicação da calda bordalesa\nAbaixo estou deixando outras dicas que vão te ajudar: \n✂️Poda jabuticaba para frutificação: https://youtu.be/lcMKAj6U_4Q\n📕Guia de cultivo do Cantinho de Casa: https://youtu.be/mMFENx5mpjI\n🌳Efeito detergente neutro nas plantas: https://youtu.be/XvNR5yTzV1c\n\nAbração fique com Deus e tenha um ótimo resto de semana!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rVJ_GqZmEKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rVJ_GqZmEKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rVJ_GqZmEKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rVJ_GqZmEKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rVJ_GqZmEKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rVJ_GqZmEKc"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "or7bHQ38zCTyre4vj-Px-QwCv4g",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-10-29T20:18:53Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "Elimina Cochonilhas, Lagartas, Pulgão, Mosca Branca | Rápido e SEM GASTAR NADA",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hafEp5D_7ZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hafEp5D_7ZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hafEp5D_7ZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hafEp5D_7ZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hafEp5D_7ZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hafEp5D_7ZI"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Np_8uobfp3Hsg6mGNJ__ija-x_g",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:22:20Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "COMO ACABAR COM FORMIGAS EM TODAS AS PLANTAS(Início, meio e fim)",
+        "description": "Para acabar com formigas já usei diversas receita caseiras e nunca tive sucesso! Veja agora a forma definitiva de acabar com formigas de uma vez por todas com isto!\n\nAssine o Cantinho de casa: https://www.youtube.com/channel/UCywL8mGqZfMuW1XHHd-CUAQ?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rSyTJEVefes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rSyTJEVefes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rSyTJEVefes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rSyTJEVefes/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rSyTJEVefes/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rSyTJEVefes"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wvuKjpTL_-SrtLydH32BFYNuB8k",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:20:41Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "JABUTICABA FLORES SECAM E NÃO VAO PARA FRENTE(resolva com calda bordalesa)",
+        "description": "Conheça o guia completo de cultivo do Cantinho de Casa: https://cantinhodecasa.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o659xs5HkMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o659xs5HkMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o659xs5HkMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o659xs5HkMw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o659xs5HkMw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o659xs5HkMw"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zrYL1mNqrpGiAvojj5FLYlz-yFQ",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-08-11T13:52:32Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "Plantas cheias de pragas? Resolva agora com esta receita!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f77ClOlgWlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f77ClOlgWlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f77ClOlgWlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f77ClOlgWlE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f77ClOlgWlE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f77ClOlgWlE"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VXycofXtncJxJR166RVd-ENUtLw",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:21:58Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "OÍDIO E MÍLDIO COMO ELINAR NAS PLANTAS(Receita caseira com alho, canela e vinagre)",
+        "description": "Manchas brancas nas folhas dos tomateiros,  morangos e outras plantas, por todo lugar?\nVeja como resolver sem gastar nada SUPER SIMPLES E FUNCIONA!\nIsto tem uma ação definitiva contra fungos porque ...\n\nAssine o Cantinho de casa: https://www.youtube.com/channel/UCywL8mGqZfMuW1XHHd-CUAQ?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z8HeNJ6umfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z8HeNJ6umfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z8HeNJ6umfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z8HeNJ6umfU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z8HeNJ6umfU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z8HeNJ6umfU"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lpAgDl5IfFpmZ4M6H86-eTXT3oQ",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:23:12Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "PROTEJA AS PLANTAS DE VÁRIAS PRAGAS(Receita caseira)",
+        "description": "Dicas fáceis e eficazes no combate à pragas no tomateiro.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hV6JP5c886E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hV6JP5c886E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hV6JP5c886E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hV6JP5c886E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hV6JP5c886E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hV6JP5c886E"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xvtgXJjceaqZiTnbID61MlV0DAc",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:04:49Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "MATA TUDO MESMO Pulgões, Cochinilhas, Fungos e Lagartas a Melhor solução",
+        "description": "O Mais poderoso inseticida caseiro que vai acabar com todas as pragas: pulgões, lagartas, cochinilhas, fumagina, fungos e diversas outras pragas que podem acabar com sua planta. Veja a forma correta de aplicação pois faz toda a diferença. Ao assistir diversos materiais na internet fiquei um pouco preocupado com uma das mais simples receitas de inseticida caseiro em relação a proporção de reagentes e forma de utilização por isto resolvi gravar este vídeo ensinando a melhor, mais fácil e mais eficiente forma de se fazer inseticida com detergente neutro. Para preparal-o utilize uma colher de sopa de detergente neutro, meio litro de água e agite bastante a mistura. Pode-se aplica-lo durante a parte da manha e deixar a planta fora da exposição solar diretamente pois como foi explicado no vídeo o detergente é um tipo de sabão e este pode acabar queimando a folha das plantas se estas ficarem diratamente expostas ao sol. O processo pode ser repetido 3 vezes por semana com descanso de um dia entre as aplicações, e pode ser utilizado em pantas que não estejam doentes para prevenção contra pragas. Espero que gostem do vídeos e em caso de dúvidas gentileza deixa-las nos comentários. \nVEM AI O LIVRO GUIA DE CULTIVO DE FRUTÍFERAS EM VASO(o livro mais completo sobre cultivo de frutíferas em vaso) quem se interessar me passe seu e-mail clicando neste link: https://forms.gle/1V4uH4Rbuqe2cwAm9  abraços!!!\nAssine o Cantinho de casa: https://www.youtube.com/channel/UCywL8mGqZfMuW1XHHd-CUAQ?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vMB_maSOUXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vMB_maSOUXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vMB_maSOUXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vMB_maSOUXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vMB_maSOUXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vMB_maSOUXM"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Qc0I3gHx8CkygMmd2udiGHGn9M",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:04:12Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "ÓLEO DE ANDIROBA (mata: pulgões, cochonilhas, vaquinha, ácaros, fungos, lagartas, bactérias)",
+        "description": "Se vc não tem espaço para plantar, sua frutífera não produz, não se desenvolve, sempre esta sofrendo ataque de pragas e vc não sabe a forma correta de podar? conheça o livro do Cantinho de casa: https://www.cantinhodecasa.com pois tem tudo que vc precisa para suas plantas ficarem lindas e super produtivas mesmo em pequenos espaços! Confira o guia completo de cultivo do Cantinho de Casa aqui: https://www.cantinhodecasa.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I3dZDUjJza4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I3dZDUjJza4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I3dZDUjJza4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I3dZDUjJza4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I3dZDUjJza4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I3dZDUjJza4"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6QwsRn7oHFYAQMf1xGUcBCMKB7c",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:00:51Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "CALDA BORDALESA PRONTA (elimine: ferrugem, fungos e outras pragas)",
+        "description": "Assista já o Cantinho de Casa Flix: https://www.youtube.com/c/Cantinhodecasa/videos\nConfira os Bastidores do Cantinho de Casa: https://www.instagram.com/cantinhodecasaoficial/\nAbraços fique com Deus e tenha uma excelente semana!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QeGeVIYQV1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QeGeVIYQV1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QeGeVIYQV1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QeGeVIYQV1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QeGeVIYQV1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QeGeVIYQV1o"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QUTcK4zHoZTyKP7IeGbQ3cVq4Ec",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:20:11Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "ÁCAROS COMO ELIMINAR EM TODAS AS PLANTAS(sem gastar nada)",
+        "description": "Assista já o Cantinho de Casa Flix: https://www.youtube.com/c/Cantinhodecasa/videos\nConfira os Bastidores do Cantinho de Casa: https://www.instagram.com/cantinhodecasaoficial/\nAbraços fique com Deus e tenha uma excelente semana!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qpuRXZUA9T4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qpuRXZUA9T4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qpuRXZUA9T4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qpuRXZUA9T4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qpuRXZUA9T4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qpuRXZUA9T4"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VPcLpQqWA_Zmh7J7B7fIVXzkLZo",
+      "id": "UExuQ2pQWTZhc21KR2RNSnNHclNPNFhSQzRITlBHcnIyTy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-07-27T20:23:34Z",
+        "channelId": "UCywL8mGqZfMuW1XHHd-CUAQ",
+        "title": "Frutífera feia, perdendo folhas, parece estar morrendo(veja como resolver)",
+        "description": "4 super dicas de reanimar suas plantas e faze-las desenvolver novamente e ficar linda de uma vez!\nSe sua planta está feia, não esta frutificando, vc não tem espaço para plantar, ela sempre esta sofrendo ataque de pragas e vc não sabe a forma correta de podar! conheça o livro do Cantinho de casa: https://www.cantinhodecasa.com pois tem tudo que vc precisa para suas plantas ficarem lindas e super produtivas mesmo em pequenos espaços! Se vc tiver dúvidas a respeito do livro do Cantinho de casa, eu sou muito acessível converse comigo pelo whatsapp clicando aqui: http://bit.ly/2PsxnwP    abraços!!!\n\nInscreva-se no canal: https://www.youtube.com/channel/UCywL8mGqZfMuW1XHHd-CUAQ?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SD_APbbChZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SD_APbbChZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SD_APbbChZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SD_APbbChZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SD_APbbChZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cantinho de casa",
+        "playlistId": "PLnCjPY6asmJGdMJsGrSO4XRC4HNPGrr2O",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SD_APbbChZ4"
+        },
+        "videoOwnerChannelTitle": "Cantinho de casa",
+        "videoOwnerChannelId": "UCywL8mGqZfMuW1XHHd-CUAQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 50
+  }
+}
